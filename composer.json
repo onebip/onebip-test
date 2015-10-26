@@ -1,0 +1,10 @@
+{
+    "name": "onebip/onebip-test",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Onebip\\Test\\": "src/"
+        }
+    }
+}
